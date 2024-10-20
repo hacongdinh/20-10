@@ -55,7 +55,7 @@ body {
   animation: fadeIn 3s ease-in-out, bounce 2s infinite ease-in-out alternate;
   white-space: nowrap;
   position: relative; /* Đặt vị trí tương đối */
-  top: -585px;
+  top: -557px;
     left: 300px; /* Đẩy sang bên trái một chút nếu cần */
   z-index: 1; /* Đảm bảo nằm trên khung viền */
 }
